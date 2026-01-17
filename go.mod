@@ -1,4 +1,4 @@
-module myrandomwallpaper
+module github.com/ggtony233/myrandomwallpaper
 
 go 1.25.5
 
